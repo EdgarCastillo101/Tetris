@@ -1,8 +1,7 @@
 # Tetris on Python
 
-Install `test.sh`
- ```bash
- ./test.sh
+Install `pygame` via PIP 
+ ```pip install pygame
  ```
 
 ## What's Tetris on Python
